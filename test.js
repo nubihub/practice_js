@@ -1,5 +1,3 @@
-let a = 1;
-let b = 2;
-let c = 3;
+let myName = "Nubi";
 
-console.log( a+b+c );
+console.log( `My name is ${myName}!` );
